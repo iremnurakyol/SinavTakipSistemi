@@ -37,6 +37,7 @@ Configure database connection in config.php
 
 Credentials
 You can use the following accounts to test the system:
-Role Email Password
-Administrator admin@test.com 123
-Student (Ali) ali@test.com 123
+| Role | Email | Password |
+|------|------|----------|
+| Administrator | admin@test.com | 123 |
+| Student (Ali) | ali@test.com | 123 |
